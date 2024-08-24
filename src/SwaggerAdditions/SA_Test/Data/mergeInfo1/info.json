@@ -1,0 +1,8 @@
+{
+  "HowToMerge": "upsert",
+  "data": {
+    "title": "newTest",
+    "version": "2.0",
+    "description": "newDescription"
+  }
+}

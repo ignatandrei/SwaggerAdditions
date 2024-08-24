@@ -1,0 +1,9 @@
+﻿global using Microsoft.OpenApi.Models;
+global using System.Net.Http;
+global using System.Net;
+global using System.Threading.Tasks;
+global using Microsoft.OpenApi.Readers;
+global using System.IO;
+global using System.Text;
+global using System.Text.Json;
+global using System;
